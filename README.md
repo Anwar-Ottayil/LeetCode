@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1791-richest-customer-wealth](https://github.com/Anwar-Ottayil/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Anwar-Ottayil/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
