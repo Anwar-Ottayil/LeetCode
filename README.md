@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Anwar-Ottayil/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
