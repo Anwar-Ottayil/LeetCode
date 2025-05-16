@@ -13,8 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anwar-Ottayil/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Anwar-Ottayil/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
